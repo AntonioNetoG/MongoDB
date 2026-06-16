@@ -19,6 +19,14 @@ O objetivo foi modelar e explorar um domínio real e relacional em um banco de d
 
 ---
 
+## 📄 Relatório do Projeto
+
+A documentação completa do projeto pode ser acessada através do relatório técnico:
+
+📑 **[Acessar Relatório Completo](https://docs.google.com/document/d/1K1IpNMqdNIA0eralQpZFZKm2GBabNmXgd-kpNHkQTos/edit?tab=t.0)**
+
+---
+
 ## 🗄️ Estrutura das Coleções
 
 O banco `revendedora` é composto por **7 coleções** com um total de **538 documentos**:
